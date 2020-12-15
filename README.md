@@ -8,4 +8,5 @@ There are total of 7 questions about me. Each question has four choices and **on
 ## Rules:
 1.) Every *correct answer* gives 1 point.
 2.) Every *wrong answer* make you lose 2 points.
+3.) For starting the game click on **Play** symbol.
 
